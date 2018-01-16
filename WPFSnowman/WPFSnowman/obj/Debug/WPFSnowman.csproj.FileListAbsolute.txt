@@ -1,0 +1,14 @@
+c:\users\anhen\documents\visual studio 2015\Projects\WPFSnowman\WPFSnowman\bin\Debug\WPFSnowman.exe.config
+c:\users\anhen\documents\visual studio 2015\Projects\WPFSnowman\WPFSnowman\bin\Debug\WPFSnowman.exe
+c:\users\anhen\documents\visual studio 2015\Projects\WPFSnowman\WPFSnowman\bin\Debug\WPFSnowman.pdb
+c:\users\anhen\documents\visual studio 2015\Projects\WPFSnowman\WPFSnowman\obj\Debug\WPFSnowman.csprojResolveAssemblyReference.cache
+c:\users\anhen\documents\visual studio 2015\Projects\WPFSnowman\WPFSnowman\obj\Debug\MainWindow.g.cs
+c:\users\anhen\documents\visual studio 2015\Projects\WPFSnowman\WPFSnowman\obj\Debug\App.g.cs
+c:\users\anhen\documents\visual studio 2015\Projects\WPFSnowman\WPFSnowman\obj\Debug\WPFSnowman_MarkupCompile.cache
+c:\users\anhen\documents\visual studio 2015\Projects\WPFSnowman\WPFSnowman\obj\Debug\WPFSnowman_MarkupCompile.lref
+c:\users\anhen\documents\visual studio 2015\Projects\WPFSnowman\WPFSnowman\obj\Debug\MainWindow.baml
+c:\users\anhen\documents\visual studio 2015\Projects\WPFSnowman\WPFSnowman\obj\Debug\WPFSnowman.g.resources
+c:\users\anhen\documents\visual studio 2015\Projects\WPFSnowman\WPFSnowman\obj\Debug\WPFSnowman.Properties.Resources.resources
+c:\users\anhen\documents\visual studio 2015\Projects\WPFSnowman\WPFSnowman\obj\Debug\WPFSnowman.csproj.GenerateResource.Cache
+c:\users\anhen\documents\visual studio 2015\Projects\WPFSnowman\WPFSnowman\obj\Debug\WPFSnowman.exe
+c:\users\anhen\documents\visual studio 2015\Projects\WPFSnowman\WPFSnowman\obj\Debug\WPFSnowman.pdb
